@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: jihye1.kang
+Build-Jdk: 17.0.3
+Implementation-Title: WideBasic
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: kr.com.wideProject
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/WideBasic
+Created-By: Maven Integration for Eclipse
+
